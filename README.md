@@ -12,7 +12,7 @@ Recyclerview	;
 Picasso	        ;
 
 
-![Alt Text](http://giphy.com/gifs/3ornjRtXE7qUgFIhTW)
+![Alt Text](http://i.giphy.com/3ornjRtXE7qUgFIhTW.gif)
  
 
 
