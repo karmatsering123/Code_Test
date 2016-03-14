@@ -10,7 +10,7 @@ gson okhttp     JSON Parser             Integrate with Retrofit
 MVP	        Design pattern	        Separation of concerns
 Recyclerview	Android Lollipop	Loading list
 Picasso	        Image Loading	        Load images asynchronously 
-
+ 
 
 
 
