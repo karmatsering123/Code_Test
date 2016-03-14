@@ -12,7 +12,7 @@ Recyclerview	;
 Picasso	        ;
 
 
-![alt tag](http://giphy.com/gifs/3ornjRtXE7qUgFIhTW)
+![Alt text](http://giphy.com/gifs/3ornjRtXE7qUgFIhTW?raw=true "Title")
  
 
 
